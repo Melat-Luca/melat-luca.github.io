@@ -5,12 +5,13 @@ subtitle: Auf dieser Website findet ihr alle Infos zu unserer Hochzeit. Von Datu
 ---
 # Übersicht
 Da einigen nicht klar war, ob sie sich noch selbst um Hotelzimmer kümmern müssen: **Wir haben für euch alle anhand eurer eingetragenen Präferenzen reserviert.**
-1. [Wann und Wo? (zeitlicher Ablauf und Adressen)](#Wann und Wo?)
-2. [Mögliche Aktivitäten für Kinder](Mögliche Aktivitäten für Kinder)
-3. [Was sollen wir euch schenken?](#Was sollen wir euch schenken?)
-4. [Dresscode](#Dresscode)
+1. [Wann und Wo? (zeitlicher Ablauf und Adressen)](#timetable)
+2. [Mögliche Aktivitäten für Kinder](#kids)
+3. [Was sollen wir euch schenken?](#presents)
+4. [Dresscode](#dresscode)
 
-## Wann und Wo?
+## Wann und Wo? <a name="timetable"></a>
+Die Hochzeit wird am **27.08.2022** in **Hildesheim** stattfinden.
 
 |      Wann?     	|             Was?             	|         Wo?         	|
 |:--------------:	|:----------------------------:	|:-------------------:	|
@@ -22,9 +23,12 @@ Da einigen nicht klar war, ob sie sich noch selbst um Hotelzimmer kümmern müss
 |    ab 16:30    	| Sektempfang + Snacks + Fotos 	|  van der Falk Hotel 	|
 |    ab 18 Uhr   	| Abendessen + Feier           	| van der Falk Hotel  	|
 
-## Mögliche Aktivitäten für Kinder
-## Was sollen wir euch schenken?
-## Dresscode
+## Mögliche Aktivitäten für Kinder <a name="kids"></a>
+Info folgt.
+## Was sollen wir euch schenken? <a name="presents"></a>
+Wir haben keine speziellen Wünsche. 
+## Dresscode<a name="dresscode"></a>
+Der Dresscode ist semi-formal. Einfach googeln.
 
 <!-- 
 {% include test.md %} -->

@@ -16,7 +16,7 @@ Da einigen nicht klar war, ob sie sich noch selbst um Hotelzimmer kümmern müss
 
 |      Wann?     	|             Was?             	|         Wo?         	|
 |:--------------:	|:----------------------------:	|:-------------------:	|
-|   **Freitag**  	|               1              	|          32         	|
+|   **Freitag**  	|                              	|                     	|
 |   16:00-20:00  	|            Grillen           	|    Familie Pusch    	|
 |   **Samstag**  	|                              	|                     	|
 |   bis 14 Uhr   	|    Frühstück und Freizeit    	|          64         	|

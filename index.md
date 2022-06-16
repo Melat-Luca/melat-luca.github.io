@@ -12,6 +12,7 @@ Da einigen nicht klar war, ob sie sich noch selbst um Hotelzimmer kümmern müss
 
 ## Wann und Wo?
  <br>
+
 |      Wann?     	|             Was?             	|         Wo?         	|
 |:--------------:	|:----------------------------:	|:-------------------:	|
 |   **Freitag**  	|                              	|                     	|
@@ -21,7 +22,6 @@ Da einigen nicht klar war, ob sie sich noch selbst um Hotelzimmer kümmern müss
 | 15:00-ca.16:00 	|      kirchliche Trauung      	| St. Lamberti Kirche 	|
 |    ab 16:30    	| Sektempfang + Snacks + Fotos 	|  van der Falk Hotel 	|
 |    ab 18 Uhr   	| Abendessen + Feier           	| van der Falk Hotel  	|
-
 
 ## Mögliche Aktivitäten für Kinder
 ## Was sollen wir euch schenken?

@@ -9,6 +9,7 @@ Da einigen nicht klar war, ob sie sich noch selbst um Hotelzimmer kümmern müss
 2. [Mögliche Aktivitäten für Kinder](#kids)
 3. [Was sollen wir euch schenken?](#presents)
 4. [Dresscode](#dresscode)
+5. [Weitere Fragen](#requests)
 
 ## Wann und Wo? <a name="timetable"></a>
 Die Hochzeit wird am **27.08.2022** in **Hildesheim** stattfinden.
@@ -29,5 +30,7 @@ Info folgt.
 Wir haben keine speziellen Wünsche. 
 ## Dresscode<a name="dresscode"></a>
 Der Dresscode ist semi-formal. Das bedeutet für Männer: Mindestens Hemd, bei Frauen Kleid oder Bluse.
-<!-- 
+## Weitere Fragen<a name="requests"></a>
+Bei ungeeklärten Fragen wendet euch an Melat (melatpusch@yahoo.de) oder Luca (luca.schmidtke1@gmail.com) (auch gerne per Handy, aber die Nummer schreiben wir hier nicht rein). Wenn ihr Programmanfragen (Spiele oä.) habt, meldet euch bitte entweder bei der Trauzeugin Arina (arina.freese@gmail.com) oder Max.
+
 {% include test.md %} -->

@@ -33,4 +33,3 @@ Der Dresscode ist semi-formal. Das bedeutet für Männer: Mindestens Hemd, bei F
 ## Weitere Fragen<a name="requests"></a>
 Bei ungeeklärten Fragen wendet euch an Melat (melatpusch@yahoo.de) oder Luca (luca.schmidtke1@gmail.com) (auch gerne per Handy, aber die Nummer schreiben wir hier nicht rein). Wenn ihr Programmanfragen (Spiele oä.) habt, meldet euch bitte entweder bei der Trauzeugin Arina (arina.freese@gmail.com) oder Max.
 
-{% include test.md %} -->

@@ -28,7 +28,6 @@ Info folgt.
 ## Was sollen wir euch schenken? <a name="presents"></a>
 Wir haben keine speziellen Wünsche. 
 ## Dresscode<a name="dresscode"></a>
-Der Dresscode ist semi-formal. Einfach googeln.
-
+Der Dresscode ist semi-formal. Das bedeutet für Männer: Mindestens Hemd, bei Frauen Kleid oder Bluse.
 <!-- 
 {% include test.md %} -->

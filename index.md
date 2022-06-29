@@ -6,10 +6,9 @@ subtitle: Auf dieser Website findet ihr alle Infos zu unserer Hochzeit. Von Datu
 # Übersicht
 Da einigen nicht klar war, ob sie sich noch selbst um Hotelzimmer kümmern müssen: **Wir haben für euch alle anhand eurer eingetragenen Präferenzen reserviert.**
 1. [Wann und Wo? (zeitlicher Ablauf und Adressen)](#timetable)
-2. [Mögliche Aktivitäten für Kinder](#kids)
-3. [Was sollen wir euch schenken?](#presents)
-4. [Dresscode](#dresscode)
-5. [Weitere Fragen](#requests)
+2. [Was sollen wir euch schenken?](#presents)
+3. [Dresscode](#dresscode)
+4. [Weitere Fragen](#requests)
 
 ## Wann und Wo? <a name="timetable"></a>
 Die Hochzeit wird am **27.08.2022** in **Hildesheim** stattfinden.
@@ -24,8 +23,6 @@ Die Hochzeit wird am **27.08.2022** in **Hildesheim** stattfinden.
 |    ab 16:30    	| Sektempfang + Snacks + Fotos 	|  [van der Falk Hotel](https://www.google.com/maps?sxsrf=ALiCzsZS_pIkM9O_vQwGIIGlDT0OC-chtQ:1655391855907&uact=5&gs_lcp=Cgdnd3Mtd2l6EAMyBwgjELECECcyDQguEMcBEK8BEAoQywEyBAgAEAo6BwgAEEcQsAM6BwgAEAoQywE6CgguEMcBEK8BEAo6BwghEAoQoAFKBAhBGABKBAhGGABQngNY1xhgkxtoAnABeACAAbkBiAHJC5IBBDIuMTCYAQCgAQHIAQjAAQE&q=van+der+valk+hotel+hildesheim&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiV35ifn7L4AhVqi_0HHWMWBZoQ_AUoAXoECAIQAw) 	|
 |    ab 18 Uhr   	| Abendessen + Feier           	| [van der Falk Hotel](https://www.google.com/maps?sxsrf=ALiCzsZS_pIkM9O_vQwGIIGlDT0OC-chtQ:1655391855907&uact=5&gs_lcp=Cgdnd3Mtd2l6EAMyBwgjELECECcyDQguEMcBEK8BEAoQywEyBAgAEAo6BwgAEEcQsAM6BwgAEAoQywE6CgguEMcBEK8BEAo6BwghEAoQoAFKBAhBGABKBAhGGABQngNY1xhgkxtoAnABeACAAbkBiAHJC5IBBDIuMTCYAQCgAQHIAQjAAQE&q=van+der+valk+hotel+hildesheim&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiV35ifn7L4AhVqi_0HHWMWBZoQ_AUoAXoECAIQAw)  	|
 
-## Mögliche Aktivitäten für Kinder <a name="kids"></a>
-Info folgt.
 ## Was sollen wir euch schenken? <a name="presents"></a>
 Wir haben keine speziellen Wünsche. 
 ## Dresscode<a name="dresscode"></a>

@@ -29,7 +29,7 @@ Wir haben keine speziellen Wünsche.
 ## Dresscode<a name="dresscode"></a>
 Der Dresscode ist semi-formal. Das bedeutet für Männer: Mindestens Hemd, bei Frauen Kleid oder Bluse.
 ## Aktivitäten in Hildesheim<a name="activities"></a>
-Wollt ihr euch ein paar Sehenswürdigkeiten anschaueen, gut essen gehen oder ein bisschen Programm mit den Kindern machen? 
+Wollt ihr euch ein paar Sehenswürdigkeiten anschauen, gut essen gehen oder ein bisschen Programm mit den Kindern machen? 
 [Hier eine kleine Auswahl.](https://docs.google.com/document/d/1teVTbsMikVtVWtxtEixJX6HDrkBIKd3n0oJi47O5bhI/edit?fbclid=IwAR3PLMeVzrrURtY2stzbg4hMFXYIlIQKUORuDGcdZDLtPqDkg5bsL5xw9BE)
 
 ## Weitere Fragen<a name="requests"></a>

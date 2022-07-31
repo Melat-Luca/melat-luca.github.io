@@ -4,8 +4,8 @@ title: Alle Infos zu unserer Hochzeit
 subtitle: Auf dieser Website findet ihr alle Infos zu unserer Hochzeit. Von Datum und Ort bis Dresscode.
 ---
 <p align="center">
-    *Wir freuen uns, mit euch diesen Tag gemeinsam feiern zu können und bedanken uns 
-    für die teilweise weiten Anreisen!*
+    <em>Wir freuen uns, mit euch diesen Tag gemeinsam feiern zu können und bedanken uns 
+    für die teilweise weiten Anreisen!<em>
 </p>
 
 # Übersicht

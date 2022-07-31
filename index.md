@@ -3,7 +3,7 @@ layout: home
 title: Alle Infos zu unserer Hochzeit
 subtitle: Auf dieser Website findet ihr alle Infos zu unserer Hochzeit. Von Datum und Ort bis Dresscode.
 ---
-Vorab: Wir freuen uns, mit euch diesen Tag gemeinsam feiern zu können und bedanken uns für die teilweise weiten Anreisen!
+*Vorab: Wir freuen uns, mit euch diesen Tag gemeinsam feiern zu können und bedanken uns für die teilweise weiten Anreisen!*
 
 # Übersicht
 Da einigen nicht klar war, ob sie sich noch selbst um Hotelzimmer kümmern müssen: **Wir haben für euch alle anhand eurer eingetragenen Präferenzen reserviert.**

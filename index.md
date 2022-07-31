@@ -5,7 +5,7 @@ subtitle: Auf dieser Website findet ihr alle Infos zu unserer Hochzeit. Von Datu
 ---
 <p align="center">
     <em>Wir freuen uns, mit euch diesen Tag gemeinsam feiern zu können und bedanken uns 
-    für die teilweise weiten Anreisen!<em>
+    für die teilweise weiten Anreisen!</em>
 </p>
 
 # Übersicht

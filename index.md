@@ -23,7 +23,7 @@ Die Hochzeit wird am **27.08.2022** in **Hildesheim** stattfinden.
 |      Wann?     	|             Was?             	|         Wo?         	|
 |:--------------:	|:----------------------------:	|:-------------------:	|
 |   **Freitag**  	|                              	|                     	|
-|   16:00-20:00  	|            Grillen           	|    [Familie Pusch](https://www.google.com/maps/place/Struckmannstra%C3%9Fe+5,+31134+Hildesheim/@52.141494,9.9603175,17z/data=!3m1!4b1!4m5!3m4!1s0x47baae4d0a6df2f3:0xc28b5ea7ef8114df!8m2!3d52.141494!4d9.9603175)	|
+|   16:00-22:00  	|            Grillen           	|    [Familie Pusch](https://www.google.com/maps/place/Struckmannstra%C3%9Fe+5,+31134+Hildesheim/@52.141494,9.9603175,17z/data=!3m1!4b1!4m5!3m4!1s0x47baae4d0a6df2f3:0xc28b5ea7ef8114df!8m2!3d52.141494!4d9.9603175)	|
 |   **Samstag**  	|                              	|                     	|
 |   bis 14 Uhr   	|    Frühstück und Freizeit    	|                      	|
 | 15:00-ca.16:00 	|      kirchliche Trauung      	| [St. Lamberti Kirche](https://www.google.com/maps/place/St.+Lamberti,+Hildesheim/@52.1474422,9.9523382,17z/data=!3m1!4b1!4m5!3m4!1s0x47baafac431e411b:0xa79f526823527504!8m2!3d52.1474515!4d9.9544016) 	|

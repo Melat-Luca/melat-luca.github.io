@@ -11,7 +11,8 @@ Da einigen nicht klar war, ob sie sich noch selbst um Hotelzimmer kümmern müss
 2. [Was sollen wir euch schenken?](#presents)
 3. [Dresscode](#dresscode)
 4. [Aktivitäten in Hildesheim](#activities)
-5. [Weitere Fragen](#requests)
+5. [Fotos](#photos)
+6. [Weitere Fragen](#requests)
 
 ## Wann und Wo? <a name="timetable"></a>
 Die Hochzeit wird am **27.08.2022** in **Hildesheim** stattfinden.
@@ -33,6 +34,9 @@ Der Dresscode ist semi-formal. Das bedeutet für Männer: Mindestens Hemd, bei F
 ## Aktivitäten in Hildesheim<a name="activities"></a>
 Wollt ihr euch ein paar Sehenswürdigkeiten anschauen, gut essen gehen oder ein bisschen Programm mit den Kindern machen? 
 [Hier eine kleine Auswahl.](https://docs.google.com/document/d/1teVTbsMikVtVWtxtEixJX6HDrkBIKd3n0oJi47O5bhI/edit?fbclid=IwAR3PLMeVzrrURtY2stzbg4hMFXYIlIQKUORuDGcdZDLtPqDkg5bsL5xw9BE)
+
+## Fotos<a name="photos"></a>
+Fotos von der Hochzeit werden wir dann hier per Link zur Verfügung stellen.
 
 ## Weitere Fragen<a name="requests"></a>
 Bei ungeeklärten Fragen wendet euch an Melat (melatpusch@yahoo.de) oder Luca (luca.schmidtke1@gmail.com) (auch gerne per Handy, aber die Nummer schreiben wir hier nicht rein). Wenn ihr Programmanfragen (Spiele oä.) habt, meldet euch bitte entweder bei der Trauzeugin Arina (arina.freese@gmail.com) oder Max

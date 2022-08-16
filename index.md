@@ -31,7 +31,7 @@ Die Hochzeit wird am **27.08.2022** in **Hildesheim** stattfinden.
 |    ab 18 Uhr   	| Abendessen + Feier           	| [van der Valk Hotel](https://www.google.com/maps?sxsrf=ALiCzsZS_pIkM9O_vQwGIIGlDT0OC-chtQ:1655391855907&uact=5&gs_lcp=Cgdnd3Mtd2l6EAMyBwgjELECECcyDQguEMcBEK8BEAoQywEyBAgAEAo6BwgAEEcQsAM6BwgAEAoQywE6CgguEMcBEK8BEAo6BwghEAoQoAFKBAhBGABKBAhGGABQngNY1xhgkxtoAnABeACAAbkBiAHJC5IBBDIuMTCYAQCgAQHIAQjAAQE&q=van+der+valk+hotel+hildesheim&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiV35ifn7L4AhVqi_0HHWMWBZoQ_AUoAXoECAIQAw)  	|
 
 ## Was sollen wir euch schenken? <a name="presents"></a>
-Wir haben keine speziellen Wünsche. 
+Wir haben keine speziellen Wünsche. Aber in naher Zukunft werden Anschaffungen anstehen, wie zB eine Küche in einer neuen Wohnung :)
 ## Dresscode<a name="dresscode"></a>
 Der Dresscode ist semi-formal. Das bedeutet für Männer: Mindestens Hemd, bei Frauen Kleid oder Bluse.
 ## Aktivitäten in Hildesheim<a name="activities"></a>
